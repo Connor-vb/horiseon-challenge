@@ -20,13 +20,16 @@ Project Notes
 What I did to HTML: 
 1. I changed the added in semantic elements such as header, section, article, footer.
 2. I changed the div in header to nav to assist with screen reading.
+3. added alt descriptions to the article section
+4. made the hero its own section to separate the big picture and descriptions
 
 
 What I did to CSS:
-1. Cleaned up the article & section to make the sheet easier to read.
+1. Cleaned up the article & sections to make the sheet easier to read and make adjustments to.
 2. Changed the margins of article & section to have 20 px on top & bottom
+3. added 20px of padding space around everything to look like the example
 
-When: 09-30-2021
+When: 10-07-2021
 
 Site URL: 
 https://connor-vb.github.io/horiseon-challenge/
